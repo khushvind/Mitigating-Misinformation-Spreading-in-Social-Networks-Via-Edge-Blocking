@@ -1,7 +1,7 @@
 # Mitigating-Misinformation-Spreading-in-Social-Networks-Via-Edge-Blocking
 Hey! This repository contains the code that I wrote for my research project "Mitigating Misinformation Spreading in Social Networks Via Edge Blocking". The outcome of the project got published at Pacific Rim International Conference on AI (PRICAI) 2023. Here's an extended version of the paper: https://arxiv.org/abs/2308.08860
 
-I tried to clean the code, before adding it here, this might have generate some unwanted bugs. Let me know if you find them. For now, I have just added the Edge Blocking Methods.
+I tried to clean the code, before adding it here, this might have generated some unwanted bugs. Let me know if you find them. For now, I have just added the Edge Blocking Methods.
 
 # Content
 ## Code
