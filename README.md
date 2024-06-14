@@ -21,6 +21,3 @@ Make sure that you have the required libraries available in your python environm
 3. Ndlib (optional)
 4. collections
 5. random
-
-# Using This Repository
-For the sake of simplicity to use, I would suggest you to download this repo directly to your machine, and then run the simulation/model on your machine. Make sure you install the required libraries.
